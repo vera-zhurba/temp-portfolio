@@ -861,8 +861,8 @@ Blog
 .card-front {
   background: var(--clr-white);
   /* added me */
-  /* display: grid;
-  grid-template-rows: auto 1fr; */
+  display: grid;
+  grid-template-rows: auto 1fr;
   /* end added */
 }
 
@@ -886,8 +886,8 @@ Blog
 .card-info {
   padding: 1rem 1.5em;
   /* added me */
-  /* display: grid;
-  grid-template-rows: auto 1fr auto; */
+  display: grid;
+  grid-template-rows: auto 1fr auto;
   /* end added me */
 }
 .card-front img {
